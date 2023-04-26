@@ -13,7 +13,7 @@ class Main {
   public static void main(String[] args) {
     Scanner scanner = new Scanner(System.in);
 
-    System.out.println("0  -   wyjdź");
+    System.out.println("0  -  wyjdź");
     System.out.println("1  -  dodaj studenta");
     System.out.println("2  -  wypisz studentów");
 
